@@ -69,4 +69,3 @@ For any questions or suggestions, please reach out to any contributors below
 - *Juan Marulanda*
 - *Ishar Ghura*
 - *Raphael Onana*
-- *Ashwin Srirankan*
